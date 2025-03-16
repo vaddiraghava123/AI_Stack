@@ -1,0 +1,15 @@
+prompt,output,timestamp
+" You are an AI assitant helping with machine learning code generation
+    complete below 7 steps in sturctured manner.add()
+    
+    1. ** Load the Diabetic dataset ** using sklearn
+    2. ** split the data** (80% train / 20% test)
+    3. ** Train a linear regresion model.**
+    4. ** Find the best 3-features combination **(lowest RMSE) for the model
+    5. ** Find the R2 and adjusted R2** for the model
+    6. ** Apply feature engineering ** if needed
+    7. ** List the top 5 models based on RMSE**
+    8. ** Output the results in structured format**
+    9. ** Plot the results**","            Combination       RMSE  R-squared  Adjusted R-squared
+0          All Features  53.853446   0.452603            0.382424
+1  ('sex', 'bmi', 's5')  53.633594   0.457063            0.437901",2025-03-16 03:38:46.718826
