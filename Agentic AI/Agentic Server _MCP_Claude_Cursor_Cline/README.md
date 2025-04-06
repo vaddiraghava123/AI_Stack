@@ -1,5 +1,10 @@
 # MCP [ https://modelcontextprotocol.io/introduction ] 
 --------------------------------------------------------
+###  MCP Architecture
+
+![image](https://github.com/user-attachments/assets/7a23a548-2ba0-4dec-bf61-eee8249863a4)
+
+
   Model  ( LLM )
   Context ( Chat History , feedback )
   Protocol ( Set up rules to book end trip )
